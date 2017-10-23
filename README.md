@@ -14,7 +14,8 @@
 
 ### Repository Structure
 
--`CODE`, `AntiqueMB.X` are the code for the PIC microcontroller.
+-`main`,`mp3`,`sd`, `AntiqueMB.X` are the code for the PIC microcontroller for main, mp3 and sd card as it states.
+- `multithread` is the experimental multithread code.
 - `arduino` is the interface code for Arduino Uno.
 - `CAD` is the conceptual SolidWorks model for the project.
 - `PCB` is the PCB files in Eagle. 
