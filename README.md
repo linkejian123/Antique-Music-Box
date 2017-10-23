@@ -18,5 +18,9 @@
 - `multithread` is the experimental multithread code.
 - `arduino` is the interface code for Arduino Uno.
 - `CAD` is the conceptual SolidWorks model for the project.
-- `PCB` is the PCB files in Eagle. 
+- `OBJ477` is the PCB files in Eagle. 
+
+### Warning
+ #### High voltage
+ #### Some hotfix are not documented, yet
 
